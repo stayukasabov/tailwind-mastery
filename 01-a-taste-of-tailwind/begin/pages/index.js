@@ -1,3 +1,3 @@
 export default function Home() {
-  return <p>Hello, Tailwind!</p>;
+  return <p>This is, Traailwind!</p>;
 }
